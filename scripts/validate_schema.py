@@ -65,7 +65,7 @@ EXAMPLE JSON STRUCTURE:
             "@context": "https://raw.githubusercontent.com/beckn/protocol-specifications-new/refs/heads/main/schema/core/v2/context.jsonld",
             "@type": "beckn:Offer",
             "beckn:offerAttributes": {
-              "@context": "https://raw.githubusercontent.com/beckn/DEG/refs/heads/main/specification/schema/EvChargingOffer/v1/context.jsonld",
+              "@context": "https://raw.githubusercontent.com/beckn/DEG/refs/heads/main/specification/schema/EvChargingOffer/v1.0/context.jsonld",
               "@type": "ChargingOffer",
               "tariffModel": "PER_KWH"
             }
