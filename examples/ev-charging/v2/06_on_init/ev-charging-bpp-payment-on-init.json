@@ -108,7 +108,7 @@
         ],
         "beckn:paymentStatus": "INITIATED",
         "beckn:paymentAttributes": {
-          "@context": "https://raw.githubusercontent.com/beckn/protocol-specifications-new/refs/heads/main/schema/PaymentSettlement/v1/context.jsonld",
+          "@context": "https://raw.githubusercontent.com/beckn/protocol-specifications-v2/tags/core-2.0.0-rc-eos-release/schema/PaymentSettlement/v1/context.jsonld",
           "@type": "PaymentSettlement",
           "settlementAccounts": [
             {
